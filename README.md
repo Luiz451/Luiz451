@@ -16,7 +16,7 @@ I am a student passionate about transforming complex problems into clean, effici
 
 ### 📈 GitHub Stats
 
-![Metrics](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/github-metrics.svg)>
+![Metrics](https://github.com/Luiz451/Luiz451/blob/main/github-metrics.svg)>
 
 ---
 
