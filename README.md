@@ -9,7 +9,7 @@ I am a student passionate about transforming complex problems into clean, effici
 ### 🛠️ Tech Stack
 
 * **Languages:** Java (Basic), Python, HTML and CSS (Basic)
-* **Tools:** Git
+* **Tools:** Git, Windows, Office package
 * **Interests:** Software Architecture, Clean Code, DevOps
 
 ---
