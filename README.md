@@ -16,9 +16,9 @@ I am a student passionate about transforming complex problems into clean, effici
 
 ### 📈 GitHub Stats
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiz451&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz451&layout=compact&theme=graywhite&hide_border=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz451&show_icons=true&theme=graywhite&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz451&layout=compact&theme=graywhite&hide_border=true"/>
 </div>
 
 ---
