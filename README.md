@@ -14,12 +14,6 @@ I am a student passionate about transforming complex problems into clean, effici
 
 ---
 
-### 📈 GitHub Stats
-
-![Metrics](https://github.com/Luiz451/Luiz451/blob/main/github-metrics.svg)>
-
----
-
 ### 📫 Connect with me
 
 * [LinkedIn](https://www.linkedin.com/in/luiz-fernando-b5737b342/)
