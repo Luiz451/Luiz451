@@ -8,8 +8,8 @@ I am a student passionate about transforming complex problems into clean, effici
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Java (Basic), Python, HTML and CSS (Basic)
-* **Tools:** Git, Windows, Office package, VS Code
+* **Languages:** Java (intermediary), Python(intermediary), HTML and CSS (Basic)
+* **Tools:** Git, Windows, Office package, VS Code, IntelliJ IDEA
 * **Interests:** Software Architecture, Clean Code, DevOps
 
 ---
