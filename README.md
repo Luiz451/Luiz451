@@ -17,4 +17,4 @@ I am a student passionate about transforming complex problems into clean, effici
 ### 📫 Connect with me
 
 * [LinkedIn](https://www.linkedin.com/in/luiz-fernando-b5737b342/)
-* [Email](luiz.fernando.sf2006@gmail.com)
+* [Email](luizfsfreitas06@gmail.com)
