@@ -1,8 +1,8 @@
 # Hello, I'm Luiz Fernando! 👨‍💻
 
-**Computer engineering student | Focused on Development in Python an IA**
+**Computer engineering student | Focused on Back-End Development in Java**
 
-I am a student passionate about transforming complex problems into clean, efficient code. Currently, I am focused on honing my skills in **Python** and **Artificial Intelligence** to build high-performance applications.
+I am a student passionate about transforming complex problems into clean code and solid architectures. Currently, I am focused on honing my skills in Java and back-end development to build high-performance enterprise applications.
 
 ---
 
