@@ -18,3 +18,4 @@ I am a student passionate about transforming complex problems into clean code an
 
 * [LinkedIn](https://www.linkedin.com/in/luiz-fernando-b5737b342/)
 * [Email](luizfsfreitas06@gmail.com)
+* [Lattes](https://lattes.cnpq.br/0557977769383855)
